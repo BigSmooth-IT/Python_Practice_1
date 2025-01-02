@@ -1,1 +1,1 @@
-#  WElcome to pYthon_Practice_1
+#  WElcome to Python_Practice_1
